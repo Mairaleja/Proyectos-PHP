@@ -10,7 +10,7 @@
   <body>
     <div class="container ">
       <hr>
-      <h1><?php echo  "Algoritmos en php " ?></h1>
+      <h1><?php echo  "Algoritmos en PHP " ?></h1>
       <hr>
       <h2>Ejercicios</h2>
       <ol>
